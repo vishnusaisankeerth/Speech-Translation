@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -O3 -DNDEBUG CMakeFiles/ssplit_executable.dir/command/ssplit_main.cpp.o -o ../../../../../ssplit  ../../../../../libssplit.a /usr/lib/x86_64-linux-gnu/libpcre2-8.a 

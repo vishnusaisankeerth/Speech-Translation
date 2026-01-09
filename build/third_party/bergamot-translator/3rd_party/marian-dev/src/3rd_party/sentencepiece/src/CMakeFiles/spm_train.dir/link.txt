@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -Wall -fPIC -std=c++11 -pthread -Wl,--no-as-needed -fPIC -Wno-unused-result     -march=native  -msse2 -msse3 -msse4.1 -msse4.2 -mavx -mavx2  -DUSE_SENTENCEPIECE -D_USE_INTERNAL_STRING_VIEW -O3  -funroll-loops -rdynamic CMakeFiles/spm_train.dir/spm_train_main.cc.o -o ../../../../../../../../spm_train  libsentencepiece.a libsentencepiece_train.a libsentencepiece.a 

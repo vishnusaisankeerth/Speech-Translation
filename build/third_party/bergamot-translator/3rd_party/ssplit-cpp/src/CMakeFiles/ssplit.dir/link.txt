@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../../libssplit.a CMakeFiles/ssplit.dir/ssplit/ssplit.cpp.o CMakeFiles/ssplit.dir/ssplit/regex.cpp.o
+/usr/bin/ranlib ../../../../../libssplit.a

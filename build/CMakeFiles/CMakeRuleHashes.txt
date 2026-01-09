@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+df51a18d556eadbe1f829636a999eba1 /root/camb2/third_party/bergamot-translator/3rd_party/marian-dev/src/common/git_revision.h
+f31ca1c4177bfb837a9fc014e63fc76f marian.tgz
+34faf848ad5d2e91c0962c1c8302c4bf marian.zip
+932a84ee0fef19d239c9555905ccad88 third_party/bergamot-translator/3rd_party/marian-dev/src/CMakeFiles/marian_tgz
+932a84ee0fef19d239c9555905ccad88 third_party/bergamot-translator/3rd_party/marian-dev/src/CMakeFiles/marian_version
+932a84ee0fef19d239c9555905ccad88 third_party/bergamot-translator/3rd_party/marian-dev/src/CMakeFiles/marian_zip
+932a84ee0fef19d239c9555905ccad88 third_party/bergamot-translator/3rd_party/marian-dev/src/CMakeFiles/philly

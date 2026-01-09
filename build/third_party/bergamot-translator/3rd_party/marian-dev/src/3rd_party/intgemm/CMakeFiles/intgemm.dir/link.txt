@@ -1,0 +1,2 @@
+/usr/bin/ar qc libintgemm.a CMakeFiles/intgemm.dir/intgemm/intgemm.cc.o
+/usr/bin/ranlib libintgemm.a
