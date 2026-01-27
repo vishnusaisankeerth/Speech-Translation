@@ -33,7 +33,7 @@ sudo apt install -y \
 ### 2. Clone Repository and Submodules
 
 ```bash
-git clone <your-repo-url> camb2
+git clone <repo-url> camb2
 cd camb2
 git clone https://github.com/ggerganov/whisper.cpp third_party/whisper.cpp
 git clone https://github.com/browsermt/bergamot-translator third_party/bergamot-translator
